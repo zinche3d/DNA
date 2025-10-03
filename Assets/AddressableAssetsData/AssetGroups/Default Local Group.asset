@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 0010d8d0e44c2844cab80607100f9f88
+  m_SerializeEntries:
+  - m_GUID: 05c3dfde759b4d247b04731f74334436
+    m_Address: Assets/Prefabs/WarriorCard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 191771377032dd4488e42740e731eaca
+    m_Address: Assets/Prefabs/TooltipSkill2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40d6c2adccc81284bbfce830846172a0
+    m_Address: Assets/Fonts/Sprite/MySprites.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 800acbc65a75b344bad5b8776fd5119e
+    m_Address: Assets/Fonts/Sprite/Skill.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89cdfa2716c8b1143942ebc8a4c9d9a0
+    m_Address: Assets/Sprites/AtlasHero.spriteatlasv2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f5c3817cb07c1042b129b1f8af82caa
+    m_Address: Assets/Fonts/Sdf/Roboto-Black SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91e045ab1a1adef4b9a6e611d1b7814a
+    m_Address: Assets/Sprites/AtlasUI.spriteatlasv2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a9e929212a1eca40af5fd9caf698a0d
+    m_Address: Assets/Prefabs/TooltipDurability.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae651184b3149cb438ea8df8167fdc5d
+    m_Address: Assets/Prefabs/TooltipDefence.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcbdcb56fb5db1f4f9c93594309477fc
+    m_Address: Assets/Prefabs/TooltipSkill1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de7ac009cf8fe584098c85c97ae56beb
+    m_Address: Assets/Prefabs/TooltipAttack.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dee2f43c85a645d46a7b4678e7007215
+    m_Address: Assets/Prefabs/TooltipCrit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fde6ca24c2ade0149a71b85b2d0af958
+    m_Address: Assets/Prefabs/TooltipRage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b35ed39d8b2359745bdfc0376494a340, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 493db9d9d0449ec45afcb613fae6a641, type: 2}
+    - {fileID: 11400000, guid: e75ca3761e68af64c82ba8bdf378557c, type: 2}
