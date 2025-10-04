@@ -10,14 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: WarriorHero
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
-  m_GroupName: Default Local Group
-  m_GUID: 0010d8d0e44c2844cab80607100f9f88
-  m_SerializeEntries: []
+  m_GroupName: WarriorHero
+  m_GUID: 0cc47fc153cccdf4cac61519f782038f
+  m_SerializeEntries:
+  - m_GUID: 60e827fe9a9be8b4688c5b8a87a63b22
+    m_Address: WarriorHero
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b35ed39d8b2359745bdfc0376494a340, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 493db9d9d0449ec45afcb613fae6a641, type: 2}
-    - {fileID: 11400000, guid: e75ca3761e68af64c82ba8bdf378557c, type: 2}
+    - {fileID: 11400000, guid: 51de6da560a03d6458004fdc63a8a8ba, type: 2}
+    - {fileID: 11400000, guid: 03c4a8749a6b35d4bb07c119bdc2ebc8, type: 2}
